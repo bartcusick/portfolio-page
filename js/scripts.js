@@ -84,7 +84,17 @@
        location.href = "https://github.com/bartcusick/HomeWork-4";
   } 
   
-  function relocate_Project2()
+  function relocate_Kokyu()
   {
-       location.href = "https://bartcusick.github.io/HomeWork-4/";
+       location.href = "http://www.kokyubbq.com/";
+  } 
+
+  function relocate_Gcf()
+  {
+       location.href = "https://gcflearnfree.org";
+  } 
+
+  function relocate_BartCusick()
+  {
+       location.href = "https://bartcusick.com";
   } 
