@@ -10012,6 +10012,14 @@ h3 {
 .masthead {
   padding-top: calc(6rem + 74px);
   padding-bottom: 6rem;
+  /* Full height */
+  height: 50%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
 .masthead .masthead-heading {
   font-size: 2.75rem;
@@ -10182,9 +10190,9 @@ form .row:first-child .floating-label-form-group {
   margin-bottom: 0.5rem;
 }
 /* ////Background Image///// */
-.bg { 
+.bgImage { 
   /* The image used */
-  background-image: "assets/img/portfolio/background.jpg";
+  background-image: url("assets/img/portfolio/background.jpg");
 
   /* Full height */
   height: 50%; 

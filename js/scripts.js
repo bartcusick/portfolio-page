@@ -76,7 +76,7 @@
   
   function relocate_Project1()
   {
-       location.href = "https://bartcusick.github.io/bootCamp_Project_1-_Outdoor-Adventure-Planner/";
+       location.href = "https://bartcusick.github.io/HomeWork-4/";
   } 
   /* second pic */
   function relocate_GitHub2()
