@@ -90,7 +90,7 @@
   
   function relocate_Kokyu()
   {
-       location.href = "http://www.kokyubbq.com/";
+       location.href = "https://lookin-ruff.herokuapp.com/";
   } 
 
   function relocate_Gcf()
