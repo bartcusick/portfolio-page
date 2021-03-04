@@ -98,7 +98,11 @@
        location.href = "https://gcflearnfree.org";
   } 
 
-  function relocate_BartCusick()
+  function relocate_PomoDuck()
   {
-       location.href = "https://bartcusick.com";
+       location.href = "https://pomoduck.com";
+  } 
+  function relocate_PomoDuckGitHub()
+  {
+       location.href = "https://github.com/TomatoPals";
   } 
