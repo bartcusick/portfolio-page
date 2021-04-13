@@ -2,4 +2,4 @@
 portfolio_Page
 
 # Link
-https://bartcusick.github.io/portfolio_Page/
+https://bartcusick.github.io/portfolio-page/
